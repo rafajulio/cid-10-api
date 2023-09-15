@@ -1,0 +1,26 @@
+    [
+        {
+        "Code": "A00",
+        "Title": "Cholera"
+        },
+        {
+        "Code": "A000",
+        "Title": "Cholera due to Vibrio cholerae 01, biovar cholerae"
+        },
+        {
+        "Code": "A001",
+        "Title": "Cholera due to Vibrio cholerae 01, biovar eltor"
+        },
+        {
+        "Code": "A009",
+        "Title": "Cholera, unspecified"
+        },
+        {
+        "Code": "A01",
+        "Title": "Typhoid and paratyphoid fevers"
+        },
+        {
+        "Code": "A010",
+        "Title": "Typhoid fever"
+        }
+    ]
